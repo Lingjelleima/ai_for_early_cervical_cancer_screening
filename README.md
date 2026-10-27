@@ -1,4 +1,4 @@
-# Unified AI Framework for Early Cervical Cancer Screening
+# Unsupervised Anomaly Detection for Cervical Cancer Screening on Unpaired Public Data
 
 ## Overview
 This project implements a multi-source, anomaly-detection framework for early cervical cancer screening under unpaired data. The central challenge is that cytology images, colposcopy images, and clinical-history variables come from different sources and do not share patient identifiers, so a single fully supervised multimodal model cannot be trained or validated end-to-end.
